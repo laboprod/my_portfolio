@@ -26,9 +26,9 @@ export const ProjectList = () => {
 			title: 'React Portfolio',
 			image: reactportfolio,
 			urlIcon: link,
-			url: 'https://laboprod.github.io/react_music_app',
+			url: 'https://laboprod.github.io/my_portfolio',
 			githubIcon: github,
-			github: 'https://github.com/laboprod/react_music_app',
+			github: 'https://github.com/laboprod/my_portfolio',
 			description: 'My React portfolio / Styled components, React router, Framer motion',
 		},
 		{
