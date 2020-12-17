@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import portrait from '../img/portrait.webp';
+import portrait from '../img/portrait.png';
 import { Intro, Description, Image, Hide } from '../styles';
 //Animations
 import { motion } from 'framer-motion';
