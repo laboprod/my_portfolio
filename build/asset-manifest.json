@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/my_portfolio/static/js/main.a4168328.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.a4168328.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.4e94230d.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.4e94230d.js.map",
+    "static/js/2.26262f8c.chunk.js": "/my_portfolio/static/js/2.26262f8c.chunk.js",
+    "static/js/2.26262f8c.chunk.js.map": "/my_portfolio/static/js/2.26262f8c.chunk.js.map",
+    "static/js/3.28387fe6.chunk.js": "/my_portfolio/static/js/3.28387fe6.chunk.js",
+    "static/js/3.28387fe6.chunk.js.map": "/my_portfolio/static/js/3.28387fe6.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "static/js/2.26262f8c.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.26262f8c.chunk.js.LICENSE.txt",
+    "static/media/boardgame.2b5fb27b.png": "/my_portfolio/static/media/boardgame.2b5fb27b.png",
+    "static/media/communication.1f4d31e9.svg": "/my_portfolio/static/media/communication.1f4d31e9.svg",
+    "static/media/creative.d5fbe9c6.svg": "/my_portfolio/static/media/creative.d5fbe9c6.svg",
+    "static/media/diaphragm.887556f6.svg": "/my_portfolio/static/media/diaphragm.887556f6.svg",
+    "static/media/github.a56fb839.svg": "/my_portfolio/static/media/github.a56fb839.svg",
+    "static/media/githubLogo.9daf62e5.svg": "/my_portfolio/static/media/githubLogo.9daf62e5.svg",
+    "static/media/googlemap.d6172101.png": "/my_portfolio/static/media/googlemap.d6172101.png",
+    "static/media/introToJS.8c798b03.png": "/my_portfolio/static/media/introToJS.8c798b03.png",
+    "static/media/link.12c74028.svg": "/my_portfolio/static/media/link.12c74028.svg",
+    "static/media/linkedinLogo.ec77e75a.svg": "/my_portfolio/static/media/linkedinLogo.ec77e75a.svg",
+    "static/media/mockup.bdcba1d3.png": "/my_portfolio/static/media/mockup.bdcba1d3.png",
+    "static/media/portrait.822faa78.png": "/my_portfolio/static/media/portrait.822faa78.png",
+    "static/media/reactmusic.17ae3f1c.png": "/my_portfolio/static/media/reactmusic.17ae3f1c.png",
+    "static/media/reactportfolio.e590f163.png": "/my_portfolio/static/media/reactportfolio.e590f163.png",
+    "static/media/teamwork.a278021a.svg": "/my_portfolio/static/media/teamwork.a278021a.svg",
+    "static/media/uml.09a3b642.png": "/my_portfolio/static/media/uml.09a3b642.png",
+    "static/media/wordpress.43e46b4c.png": "/my_portfolio/static/media/wordpress.43e46b4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e94230d.js",
+    "static/js/2.26262f8c.chunk.js",
+    "static/js/main.a4168328.chunk.js"
+  ]
+}
