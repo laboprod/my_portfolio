@@ -20,13 +20,13 @@ function App() {
 			<Nav />
 			<AnimatePresence exitBeforeEnter>
 				<Switch location={location} key={location.pathname}>
-					<Route exact path='/'>
+					<Route exact path='/my_portfolio'>
 						<AboutMe />
 					</Route>
-					<Route exact path='/work'>
+					<Route exact path='/my_portfolio/work'>
 						<MyWork />
 					</Route>
-					<Route path='/contact'>
+					<Route path='/my_portfolio/contact'>
 						<ContactMe />
 					</Route>
 				</Switch>
