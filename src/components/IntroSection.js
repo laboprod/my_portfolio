@@ -27,7 +27,7 @@ const IntroSection = () => {
 					</Hide> */}
 				</motion.div>
 				<motion.p variants={fade}>Welcome to my portfolio. Scroll down for more info and check out my projects !</motion.p>
-				<Link to='/contact'>
+				<Link to='/my_portfolio/contact'>
 					<motion.button variants={fade}>Contact Me</motion.button>
 				</Link>
 			</Description>
