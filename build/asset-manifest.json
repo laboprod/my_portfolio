@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/my_portfolio/static/js/main.5235aa37.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.5235aa37.chunk.js.map",
+    "main.js": "/my_portfolio/static/js/main.28d4d008.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.28d4d008.chunk.js.map",
     "runtime-main.js": "/my_portfolio/static/js/runtime-main.4e94230d.js",
     "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.4e94230d.js.map",
     "static/js/2.26262f8c.chunk.js": "/my_portfolio/static/js/2.26262f8c.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/linkedinLogo.ec77e75a.svg": "/my_portfolio/static/media/linkedinLogo.ec77e75a.svg",
     "static/media/mockup.bdcba1d3.png": "/my_portfolio/static/media/mockup.bdcba1d3.png",
     "static/media/portrait.d516d5d0.png": "/my_portfolio/static/media/portrait.d516d5d0.png",
+    "static/media/reactgames.c9447e39.png": "/my_portfolio/static/media/reactgames.c9447e39.png",
     "static/media/reactmusic.17ae3f1c.png": "/my_portfolio/static/media/reactmusic.17ae3f1c.png",
     "static/media/reactportfolio.e590f163.png": "/my_portfolio/static/media/reactportfolio.e590f163.png",
     "static/media/teamwork.a278021a.svg": "/my_portfolio/static/media/teamwork.a278021a.svg",
@@ -31,6 +32,6 @@
   "entrypoints": [
     "static/js/runtime-main.4e94230d.js",
     "static/js/2.26262f8c.chunk.js",
-    "static/js/main.5235aa37.chunk.js"
+    "static/js/main.28d4d008.chunk.js"
   ]
 }

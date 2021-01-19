@@ -6,6 +6,7 @@ import introToJS from './img/introToJS.png';
 import boardgame from './img/boardgame.png';
 import googlemap from './img/googlemap.png';
 import reactmusic from './img/reactmusic.png';
+import reactgames from './img/reactgames.png';
 import reactportfolio from './img/reactportfolio.png';
 
 import link from './img/link.svg';
@@ -21,6 +22,15 @@ export const ProjectList = () => {
 			githubIcon: github,
 			github: 'https://github.com/laboprod/react_music_app',
 			description: 'A Music player in React / useState, useRef',
+		},
+		{
+			title: 'React Gaming App',
+			image: reactgames,
+			urlIcon: link,
+			url: 'https://laboprod.github.io/react_videogames_app',
+			githubIcon: github,
+			github: 'https://github.com/laboprod/react_videogames_app',
+			description: 'An Encyclopedia about videogames with Rawg API / Redux, Axios',
 		},
 		{
 			title: 'React Portfolio',
